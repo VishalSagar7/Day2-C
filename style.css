@@ -1,0 +1,17 @@
+#cat1{
+    height: 300px;
+}
+#lasagna{
+    height: 250px;
+}
+#cats2{
+    height: 250px;
+}
+table{
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+
+}
